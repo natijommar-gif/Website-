@@ -1,0 +1,13 @@
+{
+  "name": "areka-grade10-union-platform",
+  "version": "1.0.0",
+  "description": "Areka St. Mary Grade 10 Students Union Platform - Frontend",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site ready for deployment'"
+  },
+  "keywords": ["school", "students", "union", "platform"],
+  "author": "Areka St. Mary Students",
+  "license": "MIT"
+}
